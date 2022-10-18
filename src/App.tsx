@@ -217,18 +217,11 @@ function App() {
 
 			<footer className='footer'>
 				<a
-					href='https://github.com/Web3Auth/examples/tree/master/google-core-react-example'
+					href='https://github.com/shahbaz17/web3auth-custom-jwt-demo'
 					target='_blank'
 					rel='noopener noreferrer'
 				>
 					Source code
-				</a>
-				<a
-					href='https://faucet.egorfine.com/'
-					target='_blank'
-					rel='noopener noreferrer'
-				>
-					Ropsten Faucet
 				</a>
 			</footer>
 		</div>
