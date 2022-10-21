@@ -1,5 +1,7 @@
 # Web3Auth Core x Custom JWT Login Demo Application
 
+React - Express Application
+
 ## Quick Start
 
 ### Start Server
@@ -25,3 +27,10 @@ npm start
 ## Local Demo
 
 Visit http://localhost:3000 to login with Custom JWT.
+
+# Development
+
+To use this in your project, please checkout the following first:
+
+1. [How to bring your own JWT Token?](https://web3auth.io/docs/custom-authentication/byo-jwt-providers#using-rsa-for-jwt-signing)
+2. [How to create a Custom Verifier on Web3Auth Dashboard?](https://web3auth.io/docs/custom-authentication/byo-jwt-providers#set-up-custom-jwt-verifier)
